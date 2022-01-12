@@ -1,0 +1,55 @@
+.bg-img
+{
+    background-image: url("/dist/img/login-cover.jpg");
+    background-size: 100% 100%;
+    height: 700px;
+    /*filter: blur(8px);*/
+    /*-webkit-filter: blur(8px);*/
+    /*background-color: #000000;*/
+    /*backdrop-filter: blur(5px);*/
+/*.background {*/
+    /*filter: blur(4px);*/
+    /*position: absolute;*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+/*}*/
+
+}
+.text{
+    text-align: center;
+    padding-top: 100px;
+    color: #000000;
+}
+.text b
+{
+    font-weight: bold;
+    font-size: 25px;;
+}
+.content
+{
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 10px;
+
+}
+.content b{
+    font-size: 30px;
+}
+.content img{
+    width: 130px;
+}
+.login
+{
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 10px;
+
+}
+.login input{
+    margin-bottom: 20px;
+}
+.regcls{
+    margin: 20px;
+}
